@@ -4,6 +4,7 @@
 	"homepage":    "https://github.com/kohana-minion/tasks-migrations",
 	"license":     "BSD-3-Clause",
 	"keywords":    ["kohana", "framework", "database", "migrations", "tasks"],
+	"type":         "kohana-module",
 	"authors": [
 		{
 			"name":     "Lorenzo Pisani",
